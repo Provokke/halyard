@@ -115,4 +115,3 @@ class CronExpressionTest {
         assertTrue(fired.size >= 2)
     }
 }
-

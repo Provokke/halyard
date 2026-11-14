@@ -85,4 +85,3 @@ There's no Gradle wrapper, so use a local Gradle 8 with JDK 21. For example, fro
 ## Licence
 
 MIT.
-
